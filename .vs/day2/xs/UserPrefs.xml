@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{26D9DEFA-3E30-4CF6-8022-037CE312199D}|Default">
+  <MonoDevelop.Ide.ItemProperties.day2.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA5481AD-EC28-4AC7-9FBC-77D32A4D1225" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="day2/MainPage.xaml.cs">
+    <Files>
+      <File FileName="day2/MainPage.xaml" Line="19" Column="25" />
+      <File FileName="day2/MainPage.xaml.cs" Line="21" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="day2" expanded="True">
+            <Node name="day2" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.day2.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

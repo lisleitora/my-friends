@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="day2.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <Grid BackgroundColor="#FD9DE8" RowDefinitions="*,70,70,150,*">
+        <Image
+            Grid.Row="0"
+            Margin="0,30,0,0"
+            Source="heart.png" />
+        <Label
+            Grid.Row="1"
+            FontSize="Title"
+            HorizontalOptions="Center"
+            Text="As minhas amigas"
+            VerticalOptions="Center" />
+        <Entry
+            x:Name="_nameEntry"
+            Grid.Row="2"
+            Margin="18"
+            VerticalOptions="Center" />
+        <Label
+            x:Name="_textLabel"
+            Grid.Row="3"
+            Margin="18,0"
+            Text="i love u" />
+        <Button
+            x:Name="_saveButton"
+            Grid.Row="4"
+            Margin="18"
+            BackgroundColor="#EE7AFE"
+            Clicked="_saveButton_Clicked"
+            Text="Save"
+            VerticalOptions="Center" />
+    </Grid>
+
+</ContentPage>

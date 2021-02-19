@@ -1,0 +1,13 @@
+/Users/macbookpro15/Projects/day2/day2/bin/Debug/netstandard2.0/day2.deps.json
+/Users/macbookpro15/Projects/day2/day2/bin/Debug/netstandard2.0/day2.dll
+/Users/macbookpro15/Projects/day2/day2/bin/Debug/netstandard2.0/ref/day2.dll
+/Users/macbookpro15/Projects/day2/day2/bin/Debug/netstandard2.0/day2.pdb
+/Users/macbookpro15/Projects/day2/day2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macbookpro15/Projects/day2/day2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/macbookpro15/Projects/day2/day2/obj/Debug/netstandard2.0/day2.AssemblyInfoInputs.cache
+/Users/macbookpro15/Projects/day2/day2/obj/Debug/netstandard2.0/day2.AssemblyInfo.cs
+/Users/macbookpro15/Projects/day2/day2/obj/Debug/netstandard2.0/day2.csproj.CoreCompileInputs.cache
+/Users/macbookpro15/Projects/day2/day2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/macbookpro15/Projects/day2/day2/obj/Debug/netstandard2.0/day2.dll
+/Users/macbookpro15/Projects/day2/day2/obj/Debug/netstandard2.0/ref/day2.dll
+/Users/macbookpro15/Projects/day2/day2/obj/Debug/netstandard2.0/day2.pdb
